@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-@arr=(1,2,3,4,5);
+@arr=(1,2,3,4,6);
 print"arr:@arr\n";
 $replacement =shift(@arr);
 #shift(@ar);

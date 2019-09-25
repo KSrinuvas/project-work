@@ -1,0 +1,13 @@
+#!/usr/bin/perl
+
+
+$aa = "hello hi good ok";
+
+@a = split(" ",$aa);
+
+foreach (@a)	{
+		print;
+		print"\n";
+}
+
+

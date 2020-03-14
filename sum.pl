@@ -1,6 +1,6 @@
-#!/usr/bin/perl -w
+#!/usr/bin/perl 
 use strict;
-
+use warnings;
 
 my $o =`spd-say welcome_to_our_program`;
 
